@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\obj\Debug\Triangle.Form1.resources
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Lenovo\Desktop\WindowsForms\Triangle\Triangle\obj\Debug\Triangle.Form2.resources
